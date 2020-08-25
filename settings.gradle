@@ -1,0 +1,3 @@
+include ':DesignPatternsLib'
+rootProject.name = "DesignPattern"
+include ':app'
